@@ -1,0 +1,84 @@
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmProductos.resources
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmCreditos.resources
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmCreditos.resources
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmProductos.resources
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Tobia\Desktop\TP Final Lab2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmCreditos.resources
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmProductos.resources
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmCreditos.resources
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmProductos.resources
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

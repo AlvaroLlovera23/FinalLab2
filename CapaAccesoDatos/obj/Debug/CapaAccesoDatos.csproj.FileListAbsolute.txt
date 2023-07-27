@@ -1,0 +1,18 @@
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Tobia\Desktop\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\marin\OneDrive\Escritorio\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\marin\OneDrive\Escritorio\Laboratorio de Computación 1 y 2 UTN\TP Final Laboratorio 2\TP Final Laboratorio 2\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
